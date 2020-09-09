@@ -1,4 +1,4 @@
-BarCodeKit
+BarCodeKit - TEST
 ==========
 
 This project lets you generate bar codes for a variety of code standards. It was created from scratch as a modern framework to facilitate the generation of 1D barcodes for display and print. It is featured in the book [Barcodes with iOS](http://www.cocoanetics.com/2015/01/book-out/), please review the licensing terms below.
